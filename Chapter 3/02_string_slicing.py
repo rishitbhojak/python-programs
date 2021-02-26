@@ -1,5 +1,8 @@
-greeting = "Good Morning!"
-name = "Rishit"
+# greeting = "Good Morning!"
 # print(type(name))
-c= greeting + name
-print(c)
+# String concatenation
+# c= greeting + name
+# print(c)
+name = "Rishit"
+print(name[0])
+print(name[1])
