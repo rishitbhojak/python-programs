@@ -16,6 +16,10 @@ print(l1)
 #To insert an element at a particular index
 # l1.insert(0,545)
 # print(l1)
+
+#To pop an element at a particular index
+# l1.pop(2)
+
 print(l1)
-l1.pop(2)
+l1.remove(21)
 print(l1)
