@@ -10,5 +10,9 @@ print(l1)
 # print(l1)
 
 #To append an  element at the end of a list
-l1.append(99)
+# l1.append(99)
+# print(l1)
+
+#To insert an element at a particular index
+l1.insert(0,545)
 print(l1)
