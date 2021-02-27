@@ -12,6 +12,6 @@ print(c[1])
 print(c[2])
 print(c[3])
 
-#list slicing
+#list slicing - works in the same way as string slicing
 nums = [1,2,3,4,5,6]
 print(nums[0:4])
