@@ -14,5 +14,8 @@ print(l1)
 # print(l1)
 
 #To insert an element at a particular index
-l1.insert(0,545)
+# l1.insert(0,545)
+# print(l1)
+print(l1)
+l1.pop(2)
 print(l1)
