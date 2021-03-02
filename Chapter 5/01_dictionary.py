@@ -8,3 +8,5 @@ print(myDict['Fast'])
 print(myDict['Rishit'])
 print(myDict['Marks'])
 print(myDict['anotherDict']['king'])
+myDict['Marks'] = [45,78]
+print(myDict['Marks'])
