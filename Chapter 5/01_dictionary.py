@@ -7,4 +7,4 @@ myDict = {
 print(myDict['Fast'])
 print(myDict['Rishit'])
 print(myDict['Marks'])
-print(myDict['anotherDict'])
+print(myDict['anotherDict']['king'])
